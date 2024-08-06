@@ -1,0 +1,5 @@
+django-phonenumber-field==8.0.0
+Django==5.0.7
+pillow==10.4.0
+phonenumbers==8.13.42
+phonenumberslite==8.13.42
